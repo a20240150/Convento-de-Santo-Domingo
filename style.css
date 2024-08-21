@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #4281ff;
+}
+div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.portada img{
+  height: 500px;
+}
+.titulo p{
+  font-size: 50px;
+  color: white;
+  font-family: 'Lobster';
+}
+.enlace p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Bauhaus 93';
+}
+.subtitutlo p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Bauhaus 93';
+}
+.explicacion p{
+  font-size: 30px;
+  color: white;
+  font-family: 'Buxton Sketch';
+  text-align: justify;
+  margin: 20px;
+}
+.explicacion img{
+  height: 300px;
+}
+
+
+
